@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Playfair+Display:wght@700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+/* Hero card */
+.hero {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 40px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  color: #6c5ce7;
+  font-size: 42px;
+}
+
+#profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 20px 0;
+}
+
+a.btn {
+  display: inline-block;
+  background-color: #6c5ce7;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  margin-top: 15px;
+}
+
+/* Cards passions */
+.card {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  color: #e74c3c;
+}
+
+/* Social links */
+.social {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.social ul {
+  list-style: none;
+  padding: 0;
+}
+
+.social li {
+  display: inline;
+  padding: 10px;
+}
+
+.social a {
+  color: #6c5ce7;
+  font-weight: 700;
+  text-decoration: none;
+}
