@@ -13,7 +13,7 @@ body {
   margin: 0 auto;
 }
 
-/* Hero card */
+
 .hero {
   background-color: white;
   border-radius: 15px;
@@ -48,7 +48,7 @@ a.btn {
   margin-top: 15px;
 }
 
-/* Cards passions */
+
 .card {
   background-color: white;
   border-radius: 15px;
@@ -62,7 +62,7 @@ h2 {
   color: #e74c3c;
 }
 
-/* Social links */
+
 .social {
   background-color: white;
   border-radius: 15px;
